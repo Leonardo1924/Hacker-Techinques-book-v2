@@ -1,6 +1,6 @@
 # Hackers Techinques 
 
-![Cyber attack-pana](https://user-images.githubusercontent.com/62023102/200307846-961c22d1-250a-428c-a321-d44d78bf3b72.svg)
+![Cyber attack-pana](pics/Cyber attack-pana.svg)
 
 
 ## Introdução
