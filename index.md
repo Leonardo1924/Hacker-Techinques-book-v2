@@ -1,4 +1,3 @@
-# Hackers Techinques 
 
 ![Cyber](pics/Cyber.svg)
 
