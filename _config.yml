@@ -1,5 +1,5 @@
 #Build Settings
 markdown: kramdown
 remote_theme: pages-themes/hacker@v0.2.0
-title: [Técnicas para Hackers]
+title: Técnicas para Hackers
 description: [Pequenas Informações relevantes retiradas do livro de Wilson Oliveira]
