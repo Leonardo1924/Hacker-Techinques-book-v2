@@ -1,8 +1,7 @@
 # Hackers Techinques 
 
-<img src="https://github.com/Leonardo1924/Hacker-Techinques-book-v2/blob/main/pics/Cyber%20attack-pana.svg"
-     alt="Hacker SVG"
-     style="float: left; margin-right: 10px;" />
+![Cyber attack-pana](https://user-images.githubusercontent.com/62023102/200307846-961c22d1-250a-428c-a321-d44d78bf3b72.svg)
+
 
 ## Introdução
  
