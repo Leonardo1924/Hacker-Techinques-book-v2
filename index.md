@@ -31,6 +31,7 @@ Autenticação é feita através de:
 ### Criptografia
 
 *Cripto* -> Possui o significado de Ocultar
+
 *Grafia* -> Significa escrita
 
 Criptografia é portanto , a prática de codificação de dados que mais tarde serão descodificados usando um processo de decriptografia.
