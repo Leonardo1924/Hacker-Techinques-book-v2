@@ -1,6 +1,6 @@
 # Hackers Techinques 
 
-![Cyber attack-pana](pics/Cyber attack-pana.svg)
+![Cyber attack-pana](pics/Cyber.svg)
 
 
 ## Introdução
