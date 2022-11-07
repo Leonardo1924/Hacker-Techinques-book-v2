@@ -1,6 +1,6 @@
 # Hackers Techinques 
 
-[pic1](https://github.com/Leonardo1924/Hacker-Techinques-book-v2/blob/main/pics/Cyber%20attack-pana.svg)
+[![pic1](https://github.com/Leonardo1924/Hacker-Techinques-book-v2/blob/main/pics/Cyber%20attack-pana.svg)
 
 ## Introdução
  
