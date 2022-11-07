@@ -3,4 +3,3 @@ markdown: kramdown
 #remote_theme: pages-themes/hacker@v0.2.0
 remote_theme: pages-themes/tactile@v0.2.0
 title: Técnicas para Hackers
-description: Pequenas Informações relevantes retiradas do livro de Wilson Oliveira
